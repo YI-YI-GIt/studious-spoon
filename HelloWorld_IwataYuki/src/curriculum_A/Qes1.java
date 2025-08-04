@@ -156,7 +156,6 @@ public class Qes1 {
 		String python = text.replace("Java", "Python");// テキスト置き換え
 		System.out.println(python);// 出力
 		
-		
 	}
 
 }
