@@ -142,7 +142,7 @@ public class Que1 {
 		***********************s***********************************************************/	
 			
 			int x = 15;
-			boolean r = (x > 10);// xが10以上
+			boolean r = (x >= 10);// xが10以上
 			String result2 = r ? "OK" : "NG";
 			System.out.println(result2);// OK
 
