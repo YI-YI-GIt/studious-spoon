@@ -66,7 +66,7 @@ public class Qes4 {
 		int min = num3[0];
 		
 		// ループ処理
-		for (int i = １; i < num3.length; i++) {
+		for (int i = 1; i < num3.length; i++) {
 			if (num3[i] > max) {
 				max = num3[i];
 			}
