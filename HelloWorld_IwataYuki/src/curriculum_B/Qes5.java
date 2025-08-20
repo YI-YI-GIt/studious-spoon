@@ -37,9 +37,8 @@ public class Qes5 {
 			
 	// 引数：整数、戻り値：その2倍の整数
 		int input = 10;// 仮の値として10を入力
-		int result = doubleValue(input);{
+		int result = doubleValue(input);
 			System.out.println(input + "を2倍すると" + result +"です。");
-		}
 	 
 	/**********************************************************
 	 * 問３　次の条件を満たす メソッド isEven を作成
