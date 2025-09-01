@@ -1,4 +1,4 @@
-package selfIntroduseProgram;
+package selfIntroduceProgram;
 
 class Person{
 	// 問１ インスタンスフィールドを定義
